@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: Please cite this version of the code and derived data.
+type: dataset
+title: 'Epithelial RNA detection and tissue protein abundance of TMEM87A in colorectal cancer: analysis code and derived data'
+version: 1.0.0
+date-released: 2026-11-25
+doi: '10.5281/zenodo.24535179'
+repository-code: https://github.com/wangjinglin0905-gif/tmem87a-crc-expression
+license:
+  - MIT
+  - CC-BY-4.0
+authors:
+  - family-names: Chen
+    given-names: Yin
+    affiliation: "Department of Digestive Disease, Guizhou Provincial People's Hospital, Guiyang, Guizhou, China"
+  - family-names: Wang
+    given-names: Jinglin
+    affiliation: "Department of Digestive Disease, Guizhou Provincial People's Hospital, Guiyang, Guizhou, China"
+  - family-names: Peng
+    given-names: Yashi
+    affiliation: "Department of Digestive Disease, Guizhou Provincial People's Hospital, Guiyang, Guizhou, China"
+  - family-names: Li
+    given-names: Fei
+    affiliation: "Department of Digestive Disease, Guizhou Provincial People's Hospital, Guiyang, Guizhou, China"
+  - family-names: Yang
+    given-names: Zaili
+    affiliation: "Department of Digestive Disease, Guizhou Provincial People's Hospital, Guiyang, Guizhou, China"
+  - family-names: Yang
+    given-names: Qian
+    affiliation: "Department of Digestive Disease, Guizhou Provincial People's Hospital, Guiyang, Guizhou, China"
+    orcid: https://orcid.org/0000-0002-9591-7000

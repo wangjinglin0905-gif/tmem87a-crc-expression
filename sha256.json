@@ -1,0 +1,20 @@
+{
+  ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+  "analysis/decompose_expression.py": "56bc28c93e19c533c91908d34af7445fb202a00792f8bd1f24b0de9100cb9771",
+  "analysis/reanalyze_faxp.py": "7c1ce7638076672e18ab319096dd65bd05cbb1824078533285d40429b69878a8",
+  "analysis/reanalyze_lcm.py": "6cde4f9df1a5343196ba20396d6b361f7e7917aa747cb12118d73bbf6da42a0d",
+  "analysis/reproduce.py": "dfbceb387fd8e7e711a9e58b9e234cfb9a3cff45fbc6e605c7572998d54da215",
+  "analysis/verify_proteomics.py": "b2d45381f6e830eef7282da7e0f682fe41563e28b1d588f82975008ee6280c2c",
+  "CITATION.cff": "f91c0e572407c538ab9eec28ef7159a7a27c824ecb4a61c4b1344bb7877abe8a",
+  "LICENSE-CODE.txt": "5473c5bb34b8db3f48ba1bf916eacc6d654d9b63a88bb33425c457e030acee7e",
+  "LICENSE-DATA.txt": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744",
+  "README.md": "f17816d7a2f6a79026ee9c89811768510e0718ff84406b638f62066cfdea77b8",
+  "requirements.txt": "213f48894dde76f574a13f6e873fcba7d9fac214bf251d4b6477b3d462841265",
+  "SOURCES.md": "3deaaa492196a0b10612ed80cae08e2baf04061f33b81cc2cf1522bfb509b155",
+  "supplement/Additional_file_1.zip": "68c28ec63b1fa7355fde06a1989701ef09126638e2aff26743615e608a080c77",
+  "supplement/Additional_file_2.zip": "d45a4b189aad602eab89a47a7fb4ec61172c2b20c423f6407d7fbe18d402f433",
+  "supplement/Additional_file_3.zip": "a56709c12d1143f8c3bfe886e32d93c6b832524bc78f40e76a2a4bc88b44cbfb",
+  "supplement/Additional_file_4.zip": "b07ea2a1281203dce80cfbb85b155404efaff78ad4133ba5830b17af6e8719e7",
+  "supplement/Additional_file_5.zip": "b6af984ff55c73b74dae063aecd5696acdbb74628c39e4fa416e9cf8ba0b5078",
+  "verify_release.py": "06a0696b19b6c83906d42e771a85bb3dc4ce075188b121ad14462741616beb5c"
+}

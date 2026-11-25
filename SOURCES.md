@@ -1,0 +1,15 @@
+# Source and rights information
+
+Each numbered supplement includes a README, a SHA-256 manifest and cohort-specific input records. Cite the original investigators and databases alongside this release when reusing their observations.
+
+| Inputs | Public access and attribution |
+| --- | --- |
+| Discovery single-cell cohorts | Lee et al., [GSE132465](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132465). Pelka et al., [GSE178341](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178341). |
+| External epithelium | Uhlitz et al., [GSE166555](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166555) and [pinned clone labels](https://github.com/molsysbio/sccrc/blob/dbac4154b841e61addfbcdab1ede298ee36975db/_data/_tab/infercnv_clone_scores.tsv). The reduced cell table includes public study case labels, library size and two normalized targets. |
+| Bulk RNA and clinical records | [TCGA](https://portal.gdc.cancer.gov/), [GSE44076](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE44076), [GSE74602](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74602) and [GSE39582](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39582). |
+| Whole-tissue proteins and tumour RNA | Vasaikar et al., [prospective CPTAC-COAD, LinkedOmics](https://www.linkedomics.org/data_download/CPTAC-COAD/). Paired numeric tissue measurements are included for the two targets. |
+| Spatial data | Oliveira et al., [GSE280315](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE280315). Park et al., [GSE226997](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226997), processed via Chen et al., [STimage-1K4M pinned release](https://huggingface.co/datasets/jiawennnn/STimage-1K4M/tree/b2073c6e8bb7e6d8dfd15c0db6134ba4f2a8a84f). The conventional Visium subset includes selected source counts and coordinates alongside author-computed values. |
+| External protein studies | Wiśniewski et al., [PXD002137](https://www.ebi.ac.uk/pride/archive/projects/PXD002137), and Dong et al., [PXD041412](https://www.ebi.ac.uk/pride/archive/projects/PXD041412). Source LFQ/DIA measurements and specimen labels are attributed to their respective depositors. |
+| Protein expression annotations | [Human Protein Atlas TMEM87A](https://www.proteinatlas.org/ENSG00000103978-TMEM87A) and [TMEM63A](https://www.proteinatlas.org/ENSG00000196187-TMEM63A). See the [terms for use](https://www.proteinatlas.org/about/licence). The package contains a textual summary. |
+
+The MIT grant covers the authors’ original Python code, including the identical code files inside the supplement ZIPs. CC BY 4.0 covers the authors’ own derived result tables and documentation. Public source identifiers, source assay measurements, coordinates, clone calls and other third-party inputs retain their provenance and applicable third-party terms. The above grants do not relicense material supplied by third parties. Histology images, raw reads, full expression matrices, mass spectra and non-public patient identifiers are outside this release.
